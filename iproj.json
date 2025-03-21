@@ -11,7 +11,7 @@
     "&lib1"
   ],
   "postUsrlibl": [],
-  "setIBMiEnvCmd": [],
+  "setIBMiEnvCmd": ["export"],
   "repository": "https://github.com/NicolaeCh/bob-recursive-example.git",
   "compileCommand": "/QOpenSys/pkgs/bin/makei c -f {filename}",
   "buildCommand": "/QOpenSys/pkgs/bin/makei build"
